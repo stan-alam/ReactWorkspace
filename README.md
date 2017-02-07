@@ -12,13 +12,3 @@ To begin creating an interface in React, the first thing we need to do is break 
 
 Until there is no longer any reusable functional components.
 
-# Describing components in JSX
-
-**JSX** is **JavaScript XML** and is a declarative markup language that is written in tandem with JavaScript to define component's layout.
-
-JSX is not completely necessary for writing React, **but without it React becomes verbose and cumbersome**
-
-**JSX almost looks like HTML**
-
-
-Forward slash is required at the end for a closing tag. Class is used
