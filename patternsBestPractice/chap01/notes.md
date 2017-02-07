@@ -1,12 +1,12 @@
-## Objectives:
+## Objectives: In chap01
 
-  * The difference between imperative and declarative programming.
+  * To learn the difference between imperative and declarative programming.
 
-  * React components and their instances, and how React uses elements to control the UI flow
+  * To learn React components and their instances, and how React uses elements to control the UI flow
 
-  * How React changes the way web apps are built, enforcing a different new concept of separation of concerns, and the reason behind its unpopular design choice.
+  * To learn how React changes the way web apps are built, enforcing a different new concept of separation of concerns, and the reason behind its unpopular design choice.
 
-  * Why people feel the JavaScript Fatigue and what you the develop can do to avoid the most common errors they can make when approaching the React ecosystem.
+  * To learn why people feel the JavaScript Fatigue and what you the develop can do to avoid the most common errors they can make when approaching the React ecosystem.
 
 
 ## Declarative programming
@@ -45,5 +45,11 @@ e.g. A JS function that, given an array of uppercase strings, returns an array w
      	output.push(input[i].toLowerCase())
 
      }
+ //	console.log(JSON.stringify(output));
+
    	return output
+
    }
+```
+
+Create an empty array to contain the results. Then, the functions loops through all the elements of the input array and pusses the lowercase values into the empty array. Finally, the output array gets returned.
