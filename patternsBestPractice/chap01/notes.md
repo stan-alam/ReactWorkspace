@@ -123,4 +123,26 @@ props: {
 
 ```
 
+In React, along with a **type** there is also another special property, called **children**, which is optional and represents the direct descendant of the element.
+
+The type is important because it tells React how to deal with the element itself. In fact, if the type is a string, the element represents a **DOM node**, while if the type is a function, the element is a **component.**
+
+**DOM elements and components can be nested with each other, to represent the render trea:
+
+```Javascript
+
+{
+    type: Title,
+    props: {
+        color: 'red',
+        children: {,
+            type: 'h1',
+            props: {
+                children: 'Hello, H1'
+            }
+        }
+    }
+}
+
+```
 
