@@ -180,3 +180,10 @@ In this case the JS is intermixed with HTML. **the styling logic inside the comp
 	and React Native on mobile devices. Running React inside HTML page does not
 	require any package manager or complex operation.If you do not include the
 	react-DOM
+
+For a simple UI, the developer could just use createElement and, only when building something more complex they would include a transpiler to enable JSX and covert it into JS.
+
+Also the developer will add a router to handle different page views. *as the app grows in complexity.
+
+# React CLI tool: npm install --save create-react-app
+
