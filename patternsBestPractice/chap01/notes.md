@@ -53,3 +53,74 @@ e.g. A JS function that, given an array of uppercase strings, returns an array w
 ```
 
 Create an empty array to contain the results. Then, the functions loops through all the elements of the input array and pusses the lowercase values into the empty array. Finally, the output array gets returned.
+
+A declarative function would look as follows:
+
+```Javascript
+const toLowerCase = input => input.map(
+  value => value.toLowerCase()
+  )
+
+```
+The items of the input array are passed to a map function, which returns a new array containing lowercase values.
+
+Differences to note:
+The imperative example is less elegant and it requires more effort to be understood. The declarative is easier to read ( terser ), which can make a big difference in big codes bases, in which maintainability is crucial.
+
+**In the declarative programming example, there is no need to use variables nor to keep their values updated during the execution. Declarative programming, in fact, tends to avoid creating and mutating state.**
+
+JS implementation of using Googe Maps SDK
+```Javascript
+const map = new google.maps.Map(document.getElementById('map'), {
+  zoom: 4,
+  center: myLatLng,
+})
+
+const marker = new google.maps.Marker({
+  position: myLatLng,
+  title: 'hola, multiverso!'
+})
+
+marker.setMap(map)
+```
+
+This example shows how this type of coding is clearly imperative, because all instructions needed to create the map, and create the marker and attach tit to the map are described inside the code, one after the other.
+
+A React component would look like this :
+
+```Javascript
+
+<Gmaps zoom={4} center={myLatLng}>
+	<Marker position={myLatLng} hold, multiverso! />
+
+```
+
+In **declarative programming**, the develop only describe what they want to achieve and there's no need to list all the steps to make it work.
+
+The fact that React offers a declarative approach makes it easy to use, and  consequently, the resulting code is simple, which often leads to fewer bugs and more maintainability.
+
+
+##React Elements
+
+The **Element**: Whenever you call createClass, extend component, or simply declare a stateless function, you are creating a component. React manages all the instances of your components at runtime, and there can be more than one instance of the same component in memory at a given time.
+
+Since React follows declarative paradigm there is no need to tell it how to interact with the DOM. You just declare what you want to see on the screen and React does the job for you.
+
+Most UI libraries work the opposite way: They leave the responsibility of keeping the interface updated to the develop, who has to manage the creation and destruction of the DOM elements manually.
+
+To control the UI flow, React uses a particular object, called the **element**, which describes what has to be show on the screen. These immutable objects are much simpler compared to the components and their instances, and contain only the information that is strictly needed to represent the interface.
+
+Example of an element:
+
+```Javascript
+{
+type: Title,
+props: {
+	color : 'red',
+	children: 'Holla, Mundo'
+	}
+}
+
+```
+
+
