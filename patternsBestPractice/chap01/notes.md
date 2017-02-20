@@ -146,3 +146,37 @@ The type is important because it tells React how to deal with the element itself
 
 ```
 
+When the type of the element is a function, React calls it, passing the props to get back underlying elements. **It keeps on performing the same operation recursively on the result until it gets a tree of DOM nodes, which React can render on the screen**.
+
+	This process is called reconciliation, and it used both React DOM
+	and React Native to create the user interfaces of their
+	respective platforms.
+
+
+**React tries to innovate the way the developer builds a user interface by following a path that breaks the most well-known of best practices**.
+
+The past two decades emphasized the **separation of concerns**. However, HTML and JS are tightly coupled even if they're in different files. Use React for complex data structures. The separation of concerns in the traditional sense of web dev is more like the *separation of technologies*.
+
+React's approach is to put the templates next to the logic. React suggests you organize your applications by composing small **bricks** called **components**.
+
+```Javascript
+
+render() {
+	return (
+	<button style = {{ color: 'red'}} onClick={this.handleClick}>
+	Stop Hammer Time!
+	</button>
+  )
+}
+
+```
+In this case the JS is intermixed with HTML. **the styling logic inside the component, the end goal is encapsulate every single technology used to create our own components and separate the concerns according to their domain and functionalities**.
+
+
+	React is not a set of tools and technologies, it is relatively small.
+	There are two scripts that  compromise React, React and React-DOM,
+	which contains all the browser related features. This is because the core
+	package is used to support different targets, such as React DOM in browsers
+	and React Native on mobile devices. Running React inside HTML page does not
+	require any package manager or complex operation.If you do not include the
+	react-DOM
