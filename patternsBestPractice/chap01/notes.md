@@ -91,7 +91,7 @@ A React component would look like this :
 ```Javascript
 
 <Gmaps zoom={4} center={myLatLng}>
-	<Marker position={myLatLng} hold, multiverso! />
+	<Marker position={myLatLng} hola, multiverso! />
 
 ```
 
@@ -117,7 +117,7 @@ Example of an element:
 type: Title,
 props: {
 	color : 'red',
-	children: 'Holla, Mundo'
+	children: 'Hola, Mundo'
 	}
 }
 
