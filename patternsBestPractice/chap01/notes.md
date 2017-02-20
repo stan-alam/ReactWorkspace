@@ -185,5 +185,5 @@ For a simple UI, the developer could just use createElement and, only when build
 
 Also the developer will add a router to handle different page views. *as the app grows in complexity.
 
-# React CLI tool: npm install --save create-react-app
+## React CLI tool: npm install --save create-react-app
 
