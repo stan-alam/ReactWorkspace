@@ -187,3 +187,11 @@ Also the developer will add a router to handle different page views. *as the app
 
 ## React CLI tool: npm install --save create-react-app
 
+When the executable is installed, it is used to create the application.
+
+   **create-react-app hola-multiverso**
+
+   **npm start**
+
+
+
