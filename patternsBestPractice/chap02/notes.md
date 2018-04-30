@@ -1,4 +1,4 @@
-#Chap 02 JSX under the hood.
+# Chap 02 JSX under the hood.
 
 Goal is write clean and maintainable JSX code.
 
@@ -12,7 +12,7 @@ Goal is write clean and maintainable JSX code.
      paradigm will make for better writing of React components
 
 
-##JSX
+## JSX
 
 
 
