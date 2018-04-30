@@ -100,7 +100,7 @@ In **declarative programming**, the develop only describe what they want to achi
 The fact that React offers a declarative approach makes it easy to use, and  consequently, the resulting code is simple, which often leads to fewer bugs and more maintainability.
 
 
-##React Elements
+## React Elements
 
 The **Element**: Whenever you call createClass, extend component, or simply declare a stateless function, you are creating a component. React manages all the instances of your components at runtime, and there can be more than one instance of the same component in memory at a given time.
 
