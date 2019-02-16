@@ -31,6 +31,13 @@
 
          Renderer for virtual reality and interactive 360 experiences: https://facebook.github.io/react-vr
 
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/svg/01/coreReact-3.svg" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/svg/01/coreReact-4.svg" width="80%" height="80%">
+</a>
 
          List of React components: https://github.com/brillout/awesome-react-components and http://devarchy.com/react-components
 
