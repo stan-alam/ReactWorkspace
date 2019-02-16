@@ -3,6 +3,23 @@
 
          community resources:
 
+         enhance functionality, work with immutable data (https://github.com/kolodny/immutability-helper), and perform testing.
+
+
+         Renderer for the blessed (https://github.com/chjj/blessed) terminal interface: http://github.com/Yomguithereal/react-blessed
+
+
+         Renderer for the ART library (https://github.com/sebmarkbage/art): https://github.com/reactjs/react-art
+
+
+         Renderer for <canvas>: https://github.com/Flipboard/react-canvas
+
+
+         Renderer for the 3D library using three.js (http://threejs.org): https://github.com/Izzimach/react-three
+
+
+         Renderer for virtual reality and interactive 360 experiences: https://facebook.github.io/react-vr
+
 
          List of React components: https://github.com/brillout/awesome-react-components and http://devarchy.com/react-components
 
