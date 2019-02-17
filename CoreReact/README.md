@@ -72,3 +72,23 @@
 <a>
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/svg/01/coreReact-5.svg" width="80%" height="80%">
  </a>
+
+ <a>
+    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%206A.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%206A.png" width="80%" height="80%">
+</a>
+
+<a>
+    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%206B.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%207A.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%207B.png" width="80%" height="80%">
+</a>
