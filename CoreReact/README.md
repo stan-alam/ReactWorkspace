@@ -68,3 +68,7 @@
 
 
          Registry of React components: www.reactjsx.com
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/svg/01/coreReact-5.svg" width="80%" height="80%">
+ </a>
