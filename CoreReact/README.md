@@ -108,3 +108,37 @@
 <a>
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2011.png" width="80%" height="80%">
 </a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2012.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2012A.png" width="80%" height="80%">
+</a>
+
+```js
+//code stub - 02 - 03
+```
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2012B.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2013.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2014.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2015A.png" width="80%" height="80%">
+</a>
+
+```js
+//code stub - 03 [9]
+```
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2015B.png" width="80%" height="80%">
+</a>
