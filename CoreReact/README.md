@@ -138,3 +138,15 @@
 <a>
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2015B.png" width="80%" height="80%">
 </a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2016A.png" width="80%" height="80%">
+</a>
+
+```js
+//code stub - 04 [10]
+```
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2016B.png" width="80%" height="80%">
+</a>
