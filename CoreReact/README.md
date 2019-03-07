@@ -146,7 +146,58 @@
 ```js
 //code stub - 04 [10]
 ```
-
 <a>
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2016B.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2017.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2018.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2019A.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2019B.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2020.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2021.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2022.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2023.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2024A.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2024B.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2025A.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2025B.png" width="80%" height="80%">
+</a>
+
+<a>
+   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2026.png" width="80%" height="80%">
 </a>
