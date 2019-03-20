@@ -220,6 +220,10 @@
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2027A.png" width="80%" height="80%">
 </a>
 
+```js
+//code stub - 17 [2057]
+```
+
 <a>
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2027B.png" width="80%" height="80%">
 </a>
@@ -228,9 +232,17 @@
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2028A.png" width="80%" height="80%">
 </a>
 
+```js
+//code stub - 18 [2071]
+```
+
 <a>
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2028B.png" width="80%" height="80%">
 </a>
+
+```js
+//code stub - 19 [2085]
+```
 
 <a>
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2028C.png" width="80%" height="80%">
@@ -243,6 +255,10 @@
 <a>
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2030A.png" width="80%" height="80%">
 </a>
+
+```js
+//code stub - 20 [2196]
+```
 
 <a>
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/coreReact%20-%2030B.png" width="80%" height="80%">
