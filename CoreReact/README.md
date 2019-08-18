@@ -83,6 +83,36 @@ Screencap 8.B
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/01/coreReact01%20-%209B.png" width="80%" height="80%">
 </a>
 
+## 02
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%201.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%202A.png" width="80%" height="80%">
+</a>
+
+```text
+graph 29.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%202B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%203A.png" width="80%" height="80%">
+</a>
+
+```text
+screencap 29.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%203B.png" width="80%" height="80%">
+</a>
+
 # Deprecated notes - 07.25.2019
 
 <a>
