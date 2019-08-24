@@ -222,7 +222,7 @@ class HelloMultiverses extends React.Component {
 </a>
 
 ```js
-//codeblock 36A
+//codeblock 35B
 render() {
   if (this.props.heading) return <h1>Goodbye, cruel world!</h1>
   else return <p>Hello Multiverse(s)!</p>
