@@ -143,7 +143,6 @@ ReactDOM.render(
 </a>
 
 ```js
-
 //codeblock 32.A
 let h1 = React.createElement('h1', null, 'Hello Multiverse(s)!')
 class HelloMultiverses extends React.Component {
@@ -152,10 +151,17 @@ class HelloMultiverses extends React.Component {
     }
   }
 
+ReactDOM.render(
+  React.createElement(HelloMultiverses, null),
+  document.getElementById('content'))
 ```
 
 <a>
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%209.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2010A.png" width="80%" height="80%">
 </a>
 
 ```text

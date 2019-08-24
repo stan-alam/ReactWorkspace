@@ -7,4 +7,4 @@ class HelloMultiverses extends React.Component {
   
 ReactDOM.render(
   React.createElement(HelloMultiverses, null),
-  document.getElementById('content')
+  document.getElementById('content'))
