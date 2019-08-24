@@ -168,6 +168,29 @@ ReactDOM.render(
 screencap 33A
 ```
 
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2010B.png" width="80%" height="80%">
+
+</a>
+
+```js
+//codeblock 33A
+ReactDOM.render(
+  React.createElement (
+    'div',
+    null,
+    React.createElement(HelloMultiverses!),
+    React.createElement(HelloMultiverses!),
+    React.createElement(HelloMultiverses!)
+  ),
+  document.getElementById('content')
+)
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2010C.png" width="80%" height="80%">
+
+</a>
 
 # Deprecated notes - 07.25.2019
 
