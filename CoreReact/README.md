@@ -189,8 +189,45 @@ ReactDOM.render(
 
 <a>
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2010C.png" width="80%" height="80%">
-
 </a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2011.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2012.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2013.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2014A.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 35A
+class HelloMultiverses extends React.Component {
+  render() {
+    console.log(Object.isFrozen(this.props))
+    return React.createElement('div', null, h1, h1)
+  }
+}
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2014B.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 36A
+render() {
+  if (this.props.heading) return <h1>Goodbye, cruel world!</h1>
+  else return <p>Hello Multiverse(s)!</p>
+}
+```
 
 # Deprecated notes - 07.25.2019
 
