@@ -282,6 +282,28 @@ screencap 39.A
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2020.png" width="80%" height="80%">
 </a>
 
+# 03
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%201.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%202A.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 42.A 43.A
+//codeblock 43.B
+```
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%202B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%203.png" width="80%" height="80%">
+</a>
+
 # Deprecated notes - 07.25.2019
 
 <a>
