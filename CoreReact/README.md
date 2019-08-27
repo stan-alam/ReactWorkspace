@@ -228,6 +228,59 @@ render() {
   else return <p>Hello Multiverse(s)!</p>
 }
 ```
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2015.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2016A.png" width="80%" height="80%">
+</a>
+
+```text
+graph 37.A
+```
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2016B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2017A.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 36.A
+```
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2017B.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 37.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2018A.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 38.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2018B.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 39.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2019.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2020.png" width="80%" height="80%">
+</a>
 
 # Deprecated notes - 07.25.2019
 
