@@ -270,8 +270,8 @@ graph 37.A
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2018B.png" width="80%" height="80%">
 </a>
 
-```js
-//codeblock 39.A
+```text
+screencap 39.A
 ```
 
 <a>
