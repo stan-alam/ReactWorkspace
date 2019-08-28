@@ -113,6 +113,197 @@ screencap 29.A
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%203B.png" width="80%" height="80%">
 </a>
 
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%204A.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 30A
+let h1 = React.createElement('h1', null, 'Hello Multiverses!')
+ReactDOM.render(
+  React.createElement('div', null, h1, h1),
+  document.getElementById('content')
+)
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%205.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%206.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%207.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%208.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 32.A
+let h1 = React.createElement('h1', null, 'Hello Multiverse(s)!')
+class HelloMultiverses extends React.Component {
+  render() {
+    return React.createElement('div', null, h1, h1)
+    }
+  }
+
+ReactDOM.render(
+  React.createElement(HelloMultiverses, null),
+  document.getElementById('content'))
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%209.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2010A.png" width="80%" height="80%">
+</a>
+
+```text
+screencap 33A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2010B.png" width="80%" height="80%">
+
+</a>
+
+```js
+//codeblock 33A
+ReactDOM.render(
+  React.createElement (
+    'div',
+    null,
+    React.createElement(HelloMultiverses!),
+    React.createElement(HelloMultiverses!),
+    React.createElement(HelloMultiverses!)
+  ),
+  document.getElementById('content')
+)
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2010C.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2011.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2012.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2013.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2014A.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 35A
+class HelloMultiverses extends React.Component {
+  render() {
+    console.log(Object.isFrozen(this.props))
+    return React.createElement('div', null, h1, h1)
+  }
+}
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2014B.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 35B
+render() {
+  if (this.props.heading) return <h1>Goodbye, cruel world!</h1>
+  else return <p>Hello Multiverse(s)!</p>
+}
+```
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2015.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2016A.png" width="80%" height="80%">
+</a>
+
+```text
+graph 37.A
+```
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2016B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2017A.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 36.A
+```
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2017B.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 37.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2018A.png" width="80%" height="80%">
+</a>
+
+```js
+//codeblock 38.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2018B.png" width="80%" height="80%">
+</a>
+
+```text
+screencap 39.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2019.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2020.png" width="80%" height="80%">
+</a>
+
+# 03
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%201.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%202A.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 42.A 43.A
+//codeblock 43.B
+```
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%202B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%203.png" width="80%" height="80%">
+</a>
+
 # Deprecated notes - 07.25.2019
 
 <a>
