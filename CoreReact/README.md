@@ -301,7 +301,89 @@ screencap 39.A
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%203.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%203edit.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%204.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%205A.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 45.A  
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%205B.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 45.B  
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%205C.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 46.A  - 46-.B
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%205D.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 46.A
+```
+
+```js
+// codeblock 46.B
+//JSX
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%206A.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 46.C
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%206B.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 46.D-47
+// --47A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%206C.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%207A.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 47.B
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%207B.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 47.C
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%207C.png" width="80%" height="80%">
 </a>
 
 # Deprecated notes - 07.25.2019
