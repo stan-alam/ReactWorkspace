@@ -294,7 +294,34 @@ screencap 39.A
 
 ```js
 // codeblock 42.A 43.A
+React.createElement(
+  "div",
+  null,
+  React.createElement("HelloMultiverses, null),
+  React.createElement("br", null),
+  React.createElement(
+    "a",
+    { href: "http://ghostfish.io" },
+    "G H O S T F i S H_IO"
+  )
+)
+```js
 //codeblock 43.B
+"use strict";
+
+React.createElement(
+  "div",
+  null,
+  " ",
+  React.createElement("br", null),
+  " ",
+  React.createElement(
+    "a",
+    { href: "http://ghostfish.io" ),
+    "G H O S T F i S H_IO"
+  ),
+  " "
+);
 ```
 <a>
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%202B.png" width="80%" height="80%">
