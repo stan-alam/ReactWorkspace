@@ -342,6 +342,8 @@ React.createElement(
     "G H O S T F i S H_IO"
   )
 )
+```
+
 ```js
 //codeblock 43.B
 "use strict";
@@ -360,6 +362,7 @@ React.createElement(
   " "
 );
 ```
+
 <a>
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%202B.png" width="80%" height="80%">
 </a>
@@ -391,6 +394,13 @@ React.createElement(
 
 ```js
 // codeblock 45.B  
+<name key1=value1 key2=value2 ...>
+  <child1/>
+  <child2/>
+  <child3/>
+  ...
+  <childN/>
+</name>
 ```
 
 <a>
