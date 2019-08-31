@@ -16,4 +16,4 @@ ReactDOM.render(
         title: 'THE BEST!'})
     ),
     document.getElementById('content')
-  )
+)

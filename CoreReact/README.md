@@ -249,6 +249,25 @@ graph 37.A
 
 ```js
 //codeblock 36.A
+ReactDOM.render(
+  React.createElement(
+    'div',
+      null,
+      React.createElement(HelloMultiverses, {
+        id: 'Vue',
+        frameworkName: 'Vue.js',
+        title: 'popular among front-end devs'}),
+      React.createElement(HelloMultiverses, {
+        id: 'sailJS',
+        frameworkName: 'sail.js',
+        title: 'not too shabby'}),
+      React.createElement(HelloMultiverses, {
+        id: 'vanilla',
+        frameworkName: 'vanilla.js',
+        title: 'THE BEST!'})
+    ),
+    document.getElementById('content')
+)
 ```
 <a>
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/02/coreReact02%20-%2017B.png" width="80%" height="80%">
@@ -256,6 +275,15 @@ graph 37.A
 
 ```js
 //codeblock 37.A
+class HelloMultiverses extends React.Component {
+  render()
+    return React.createElement(
+      'h1',
+      null,
+        'Hola! ' + this.props.frameworkName + ' multiverses!'
+    )
+  }
+}
 ```
 
 <a>
@@ -264,6 +292,15 @@ graph 37.A
 
 ```js
 //codeblock 38.A
+class HelloMultiverses extends React.Component {
+  render() {
+    return React.createElement(
+      'h1',
+      this.props,
+      'Hola! ' + this.props.frameworkName + ' multiverses!'
+    )
+  }
+}
 ```
 
 <a>
@@ -328,7 +365,89 @@ React.createElement(
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%203.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%203edit.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%204.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%205A.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 45.A  
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%205B.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 45.B  
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%205C.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 46.A  - 46-.B
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%205D.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 46.A
+```
+
+```js
+// codeblock 46.B
+//JSX
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%206A.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 46.C
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%206B.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 46.D-47
+// --47A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%206C.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%207A.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 47.B
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%207B.png" width="80%" height="80%">
+</a>
+
+```js
+// codeblock 47.C
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%207C.png" width="80%" height="80%">
 </a>
 
 # Deprecated notes - 07.25.2019
