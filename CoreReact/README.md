@@ -377,7 +377,12 @@ React.createElement(
 </a>
 
 ```js
-// codeblock 45.A  
+// codeblock 45.A
+React.createElement(
+  name,
+  {key1: value1, key2: value2, ...},
+  child1, child2, child3, ..., childN
+)  
 ```
 
 <a>
@@ -402,11 +407,19 @@ React.createElement(
 
 ```js
 // codeblock 46.A
+ReactDOM.render(
+  React.createElement('h1', null, 'Hello Multiverse(s)!'),
+  document.getElementById('content')
+)
 ```
 
 ```js
 // codeblock 46.B
 //JSX
+ReactDOM.render(
+  <h1> Hello, Multiverse(s)! </h1>,
+  document.getElementById('content')
+)// jsx version of 46A
 ```
 
 <a>
@@ -415,6 +428,11 @@ React.createElement(
 
 ```js
 // codeblock 46.C
+let helloMultiversesReactElement = <h1> Hello, multiverse(s)!</h1>
+ReactDOM.render(
+  helloMultiversesReactElement,
+  document.getElementById('content')
+)
 ```
 
 <a>
@@ -424,6 +442,20 @@ React.createElement(
 ```js
 // codeblock 46.D-47
 // --47A
+class HelloMultiverses extends React.Component {
+  render() {
+    return (
+      </div>
+        <h1>1. Hello multiverse(s)! </h1>
+        <h1>2. Hello multiverse(s)! </h1>
+      </div>
+    )
+  }
+}
+ReactDOM.render (
+  <HelloMultiverses/>,
+  document.getElementById('content')
+)
 ```
 
 <a>
@@ -436,6 +468,12 @@ React.createElement(
 
 ```js
 // codeblock 47.B
+render() {
+  return (
+    <div>
+    </div>
+  )
+}
 ```
 
 <a>
@@ -444,6 +482,10 @@ React.createElement(
 
 ```js
 // codeblock 47.C
+render() {
+  return <div>
+  </div>
+}
 ```
 
 <a>
