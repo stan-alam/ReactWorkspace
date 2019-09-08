@@ -329,7 +329,8 @@ screencap 39.A
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%202A.png" width="80%" height="80%">
 </a>
 
-```js
+```jsx
+
 // codeblock 42.A 43.A
 React.createElement(
   "div",
@@ -344,7 +345,8 @@ React.createElement(
 )
 ```
 
-```js
+```JSX
+
 //codeblock 43.B
 "use strict";
 
@@ -502,6 +504,128 @@ render() {
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%207C.png" width="80%" height="80%">
 </a>
 
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%208A.png" width="80%" height="80%">
+</a>
+
+```js
+//48.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%208B.png" width="80%" height="80%">
+</a>
+
+```js
+//48.B
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%209A.png" width="80%" height="80%">
+</a>
+
+```js
+//49.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%209B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2010A.png" width="80%" height="80%">
+</a>
+
+```js
+//49.B
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2010B.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2011.png" width="80%" height="80%">
+</a>
+
+```js
+//50.A
+```
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2012.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2013.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2014.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2015A.png" width="80%" height="80%">
+</a>
+
+```js
+//51.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2015B.png" width="80%" height="80%">
+</a>
+
+```js
+//51.B
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2016A.png" width="80%" height="80%">
+</a>
+
+```js
+//51.C- 52
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2016B.png" width="80%" height="80%">
+</a>
+
+```js
+//52.A- 53
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2016C.png" width="80%" height="80%">
+</a>
+
+```js
+//53.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2017A.png" width="80%" height="80%">
+</a>
+
+```js
+//54.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2017B.png" width="80%" height="80%">
+</a>
+
+```text
+Screencap 54.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2018.png" width="80%" height="80%">
+</a>
+
+```js
+//55.A
+```
 # Deprecated notes - 07.25.2019
 
 <a>
@@ -515,7 +639,6 @@ render() {
 <a>
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/svg/01/coreReact-2.svg" width="80%" height="80%">
 </a>
-
 
 <a>
    <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/svg/01/coreReact-5.svg" width="80%" height="80%">
