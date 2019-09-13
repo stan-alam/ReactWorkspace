@@ -626,6 +626,56 @@ Screencap 54.A
 ```js
 //55.A
 ```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2019.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2020.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2021A.png" width="80%" height="80%">
+</a>
+
+```js
+//56.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2021B.png" width="80%" height="80%">
+</a>
+
+```js
+//56B-57
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2021C.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2022A.png" width="80%" height="80%">
+</a>
+
+```js
+//57.A
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2022B.png" width="80%" height="80%">
+</a>
+
+```js
+//57.B
+```
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2022C.png" width="80%" height="80%">
+</a>
+
+
 # Deprecated notes - 07.25.2019
 
 <a>
