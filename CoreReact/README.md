@@ -675,6 +675,18 @@ Screencap 54.A
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2022C.png" width="80%" height="80%">
 </a>
 
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2023.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%2024.png" width="80%" height="80%">
+</a>
+
+
+```js
+//58.A
+```
 
 # Deprecated notes - 07.25.2019
 
