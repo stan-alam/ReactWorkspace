@@ -1,5 +1,7 @@
 # REACT workspace for learning REACT
 
+https://github.com/adam-golab/react-developer-roadmap
+
 # Library vs framework
 
 React is not a complete solution for application development. It is often relegated to only a **view-layer** solution.
@@ -11,4 +13,3 @@ The **Document Object Model** DOM is **SLOW**. If changes to the DOM are relativ
 To begin creating an interface in React, the first thing we need to do is break down the interface into conceptual components. Start with a large component, and then break into smaller components.
 
 Until there is no longer any reusable functional components.
-
