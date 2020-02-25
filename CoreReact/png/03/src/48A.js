@@ -1,10 +1,13 @@
-class DateTimeNow extends React.Component {
+let helloMultiversesReactElement = <h1>Hello Multiverse</h1>
+class HelloMultiverses extends React.Component {
   render() {
-    let dateTimeNow = new Date().toLocaleString()
-    return React.createElement(
-      'span',
-      null,
-      `Current Data and Time is ${dateTimeNow}.`
-    )
+    return <div>
+    {helloMultiversesReactElement}
+    {helloMultiversesReactElement}
+    </div>
   }
 }
+ReactDOM.render(
+  <HelloMultiverses/>,
+  document.getElementById('content')
+)
