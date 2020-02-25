@@ -510,6 +510,16 @@ render() {
 
 ```js
 //48.A
+class DateTimeNow extends React.Component {
+  render() {
+    let dateTimeNow = new Date().toLocaleString()
+    return React.createElement(
+      'span',
+      null,
+      `Current Data and Time is ${dateTimeNow}.`
+    )
+  }
+}
 ```
 
 <a>
@@ -518,6 +528,13 @@ render() {
 
 ```js
 //48.B
+class DateTimeNow extends React.Component {
+  render() {
+    let dateTimeNow = new Date().toLocaleString()
+    return <span>Current Date and Time is {dateTimeNow}.</span>
+   )
+  }
+}
 ```
 
 <a>
@@ -526,6 +543,19 @@ render() {
 
 ```js
 //49.A
+let helloMultiversesReactElement = <h1>Hello Multiverse</h1>
+class HelloMultiverses extends React.Component {
+  render() {
+    return <div>
+    {helloMultiversesReactElement}
+    {helloMultiversesReactElement}
+    </div>
+  }
+}
+ReactDOM.render(
+  <HelloMultiverses/>,
+  document.getElementById('content')
+)
 ```
 
 <a>
