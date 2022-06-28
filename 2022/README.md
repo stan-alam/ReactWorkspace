@@ -1,3 +1,35 @@
+React Forms
+
+Form Library Recommendations
+Once you understand how to build forms in React, here's a few form libraries you might want to try:
+
+formsy-react
+https://github.com/christianalfoni/formsy-react
+
+formsy-react tries to strike a balance between flexibility and reusability. This is a worthwhile goal as the author of this module acknowledges that forms, inputs, and validation are handled quite differently across projects.
+
+The general pattern is that you use the Formsy.Form component as your form element, and provide your own input components as children (using the Formsy.Mixin). The Formsy.Form component has handlers like onValidSubmit() and onInvalid() that you can use to alter state on the form's parent, and the mixin provides some validation and other general purpose helpers.
+
+react-input-enhancements
+https://github.com/alexkuz/react-input-enhancements
+
+react-input-enhancements is a collection of five rich components that you can use to augment forms. This module has a nice demo to showcase how you can use the Autosize, Autocomplete, Dropdown, Mask, and DatePicker components. The author does make a note that they aren't quite ready for production and are more conceptual. That said, they might be useful if you're looking for a drop-in datepicker or autocomplete element.
+
+tcomb-form
+http://gcanti.github.io/tcomb-form
+
+tcomb-form is meant to be used with tcomb models which center around Domain Driven Design. The idea is that once you create a model, the corresponding form can be automatically generated. In theory, the benefits are that you don't have to write as much markup, you get usability and accessibility for free (e.g. automatic labels and inline validation), and your forms will automatically stay in sync with changes to your model. If tcomb models seem to be a good fit for your app, this tcomb-form is worth considering.
+
+winterfell
+https://github.com/andrewhathaway/winterfell
+
+If the idea of defining your forms and fields entirely with JSON, winterfell might be for you. With winterfell, you sketch out your entire form in a JSON schema. This schema is a large object where you can define things like CSS class names, section headers, labels, validation requirements, field types, and conditional branching. winterfell is organized into "form panels", "question panels", and "question sets". Each panel has an ID and that ID is used to assign sets to it. One benefit of this approach is that if you find yourself creating/modifying lots of forms, you could create a UI to create/modify these schema objects and persist them to a database.
+
+react-redux-form
+https://github.com/davidkpiano/react-redux-form
+
+If Redux is more your style react-redux-form is a "collection of action creators and reducer creators" to simplify "building complex and custom forms with React and Redux". In practice, this module provides a modelReducer and a formReducer helper to use when creating your Redux store. Then within your form you can use the provided Form, Field, and Error components to help connect your label and input elements to the appropriate reducers, set validation requirements, and display appropriate errors. In short, this is a nice thin wrapper to help you build forms using Redux.
+
 The State Of Web Components In 2022
 Web Components have slowly become a "thing" over the last decade. The spec was introduced in 2011, and Google launched its Polymer library, based on Web Components, in 2013. Since then, this is how far Web Components have come:
 
@@ -57,3 +89,5 @@ I'll walk you through building real world projects with Web Components over the 
 Cheers,
 
 -- Nate
+
+
