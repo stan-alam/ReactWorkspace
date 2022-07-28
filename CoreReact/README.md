@@ -410,8 +410,19 @@ React.createElement(
 </a>
 
 ```js
-// codeblock 46.A  - 46-.B
+// codeblock 46.A 
+ReactDom.render(
+  React.createElement('h1', null, 'Hola Multiverses!'),
+  document.getElementById('content')
+)
 ```
+
+```js
+//cb 46-.B
+ReactDOM..render(
+  <h1>Hola Multiverses!<h1>,
+  document.getElementById('content')
+)
 
 <a>
   <img src="https://github.com/stan-alam/ReactWorkspace/blob/develop/CoreReact/png/03/coreReact03%20-%205D.png" width="80%" height="80%">
