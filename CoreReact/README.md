@@ -410,7 +410,7 @@ React.createElement(
 </a>
 
 ```js
-// codeblock 46.A 
+// codeblock 46.A
 ReactDom.render(
   React.createElement('h1', null, 'Hola Multiverses!'),
   document.getElementById('content')
@@ -579,6 +579,16 @@ ReactDOM.render(
 
 ```js
 //49.B
+
+ReactDOM.render ((
+  <div>
+  <a href = "https://jedighost.com">Become a Jedi Ghost! </a>
+  <DateTimeNow userName = 'Skywalker'/>
+ </div>
+
+),
+document.getElementById('content')
+)
 ```
 
 <a>
