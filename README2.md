@@ -743,6 +743,114 @@ View on GitHub
 React Developer Roadmap
 ⭐ Github stars: 17K+
 
+<div id="readme" class="md" data-path="README.md"><article class="markdown-body entry-content container-lg" itemprop="text"><h3 dir="auto">
+<strong>Awesome React</strong> <a href="https://github.com/sindresorhus/awesome"><img src="https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width: 100%;"></a>
+</h3>
+<p dir="auto">A collection of awesome things regarding the React ecosystem.</p>
+<ul dir="auto">
+<li>
+<a href="https://github.com/enaqx/awesome-react#react">React</a>
+<ul dir="auto">
+<li><a href="https://github.com/enaqx/awesome-react#react-general-resources">React General Resources</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-community">React Community</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-online-playgrounds">React Online Playgrounds</a></li>
+<li>
+<a href="https://github.com/enaqx/awesome-react#react-tutorials">React Tutorials</a>
+<ul dir="auto">
+<li><a href="https://github.com/enaqx/awesome-react#react-general-tutorials">React General Tutorials</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-hooks">React Hooks</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-and-typescript">React and TypeScript</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-performance">React Performance</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-internals">React Internals</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-interview-questions">React Interview Questions</a></li>
+</ul>
+</li>
+<li>
+<a href="https://github.com/enaqx/awesome-react#react-tools">React Tools</a>
+<ul dir="auto">
+<li><a href="https://github.com/enaqx/awesome-react#react-development-tools">React Development Tools</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-frameworks">React Frameworks</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-styling">React Styling</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-routing">React Routing</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-component-libraries">React Component Libraries</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-awesome-components">React Awesome Components</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-testing">React Testing</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-libraries">React Libraries</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-integration">React Integration</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-state-management">React State Management</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-ar-and-vr">React AR and VR</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-renderers">React Renderers</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#forms">Forms</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#autocomplete">Autocomplete</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#graphics">Graphics</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#data-managing">Data Managing</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#maps">Maps</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#charts">Charts</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://github.com/enaqx/awesome-react#react-native">React Native</a>
+<ul dir="auto">
+<li><a href="https://github.com/enaqx/awesome-react#react-native-general-resources">React Native General Resources</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-native-tutorials">React Native Tutorials</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-native-development-tools">React Native Development Tools</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-native-sample-apps">React Native Sample Apps</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-native-boilerplates">React Native Boilerplates</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-native-awesome-components">React Native Awesome Components</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#react-native-libraries">React Native Libraries</a></li>
+</ul>
+</li>
+<li>
+<a href="https://github.com/enaqx/awesome-react#redux">Redux</a>
+<ul dir="auto">
+<li><a href="https://github.com/enaqx/awesome-react#redux-general-resources">Redux General Resources</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#redux-tools">Redux Tools</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#redux-tutorials">Redux Tutorials</a></li>
+</ul>
+</li>
+<li>
+<a href="https://github.com/enaqx/awesome-react#graphql">GraphQL</a>
+<ul dir="auto">
+<li><a href="https://github.com/enaqx/awesome-react#graphql-spec">GraphQL General Resources</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#graphql-tools">GraphQL Tools</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#graphql-tutorials">GraphQL Tutorials</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#graphql-implementations">GraphQL Implementations</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#database-integration">Database Integration</a></li>
+</ul>
+</li>
+<li>
+<a href="https://github.com/enaqx/awesome-react#relay">Relay</a>
+<ul dir="auto">
+<li><a href="https://github.com/enaqx/awesome-react#relay-general-resources">Relay General Resources</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#relay-tutorials">Relay Tutorials</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#relay-tools">Relay Tools</a></li>
+</ul>
+</li>
+<li>
+<a href="https://github.com/enaqx/awesome-react#videos">Videos</a>
+<ul dir="auto">
+<li><a href="https://github.com/enaqx/awesome-react#important-talks">Important Talks</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#reactjs-conf-2015-playlist">React.js Conf 2015 Playlist</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#reacteurope-conf-2015-day-1-playlist">ReactEurope Conf 2015 Day 1 Playlist</a></li>
+<li><a href="https://github.com/enaqx/awesome-react#reacteurope-conf-2015-day-2-playlist">ReactEurope Conf 2015 Day 2 Playlist</a></li>
+<li>…</li>
+</ul>
+</li>
+</ul></article></div>
+  </div>
+  <div class="gh-btn-container"><a class="gh-btn" href="https://github.com/enaqx/awesome-react">View on GitHub</a></div>
+</div>
+
+
+<h2>
+  <a name="react-in-patterns" href="#react-in-patterns">
+  </a>
+  React in Patterns
+</h2>
+
+
 Below you can find a chart demonstrating the paths you can take and the libraries you would want to learn to become a React developer. I made this chart as a tip for everyone who asks me, “What should I learn next as a React developer?”
 
 GitHub logo adam-golab / react-developer-roadmap
