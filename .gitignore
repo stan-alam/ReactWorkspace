@@ -61,3 +61,28 @@ mochawesome-reports/*
 /createReactApp/fix42-flashcards/.env.test.local
 /createReactApp/fix42-flashcards/.env.production.local
 /createReactApp/fix42-flashcards/.env.development.local
+# ignore all node_modules in every sub directory
+**/node_modules
+# ignore all bower_components
+bower_components
+# ignore all dist
+dist
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
