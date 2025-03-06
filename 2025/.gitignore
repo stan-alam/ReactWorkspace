@@ -1,0 +1,14 @@
+# ignore node modules folder
+node_modules
+# ignore bower components folder
+bower_components
+# ignore dist folder
+dist
+# ignore .tmp folder
+.tmp
+# ignore .sass-cache folder
+.sass-cache
+# ignore .idea folder
+
+# ignore .DS_Store files
+.DS_Store
