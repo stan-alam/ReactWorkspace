@@ -86,3 +86,26 @@ dist
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#ignore all .env files
+.env
+.env.local 
+.env.development
+.env.test
+.env.production
+# ignore all .env files in subdirectories
+**/.env
+**/.env.local
+**/.env.development
+**/.env.test
+**/.env.production
+# ignore all .env files in createReactApp                   
+/createReactApp/.env
+/createReactApp/.env.local
+/createReactApp/.env.development
+/createReactApp/.env.test
+/createReactApp/.env.production
+
+# ignore all node_modules in 2025/lrnReact
+/2025/lrnReact/node_modules
+
