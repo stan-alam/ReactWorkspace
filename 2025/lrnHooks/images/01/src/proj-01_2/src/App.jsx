@@ -17,4 +17,13 @@ export class App extends React.Component {
         this.setState({ name: evt.target.value })
     }
     // groovy!
+    render() {
+        const name = this.state.name
+        return (
+            <div>
+                <h1>Hola! Enter your name : {name}</h1>
+                <input type='text' value={name} onChange={this.handleCange} />
+            </div> // you still won't be able to enter anything into the field
+        )
+    }
 }
