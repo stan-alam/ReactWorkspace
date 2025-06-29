@@ -10,4 +10,11 @@ export class App extends React.Component {
         super(props)
         this.state = { name: '' }
     }
+    /* oakely, doakely, you define a method to set the name var by using
+     * the this.setState method -- which will be used to handle input from the txt input field
+     */
+    handleChange(evt) {
+        this.setState({ name: evt.target.value })
+    }
+    // groovy!
 }
