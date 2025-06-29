@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-export function App() {}
+export function App() {
 /*
  * remember hooks are just js functions -- meaning you can use hooks from function components
  * like any other JS function
@@ -21,6 +21,8 @@ function handleChange(evt) {
 
 return (
     <div>
-        <h1></h1>
+        <h1><Hola! what is your name: {name}/h1>
+        <input type='text' value={name} onChange={handleChange} />
     </div>
-)
+    )
+}
