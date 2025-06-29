@@ -9,6 +9,7 @@ export class App extends React.Component {
     constructor(props) {
         super(props)
         this.state = { name: '' }
+        this.handleChange = this.handleChange.bind(this)
     }
     /* oakely, doakely, you define a method to set the name var by using
      * the this.setState method -- which will be used to handle input from the txt input field
@@ -22,8 +23,8 @@ export class App extends React.Component {
         return (
             <div>
                 <h1>Hola! Enter your name : {name}</h1>
-                <input type='text' value={name} onChange={this.handleCange} />
-            </div> // you still won't be able to enter anything into the field
+                <input type='text' value={name} onChange={this.handleChange} />
+            </div>
         )
     }
 }
