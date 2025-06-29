@@ -22,3 +22,26 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#ignore dependency directories
+bower_components
+# Ignore build output
+coverage
+# Ignore environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Ignore test coverage reports
+coverage/
+# Ignore temporary files
+tmp/
+# Ignore lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+# Ignore build artifacts
+build/
+# Ignore system files
+Thumbs.db
